@@ -4,8 +4,8 @@
 @tailwind utilities;
 
 body.dark-theme {
-  background-color: #1f2937; /* темный фон */
-  color: #f9fafb; /* светлый текст */
+  background-color: #1f2937;
+  color: #f9fafb;
 }
 
 
